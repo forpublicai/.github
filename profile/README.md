@@ -6,11 +6,12 @@ Public AI is first of all an idea: that AI is and can be a form of **public infr
 
 We coordinate around specific projects, including:
 
-- **Public AI Inference Utility** – A pilot making public AI models more accessible and demonstrating real user demand for public AI.  
-- **Airbus for AI** – A multilateral effort toward a public-private frontier-scale model.  
-- **Public AI Libraries** – Drop-in AI makerspaces across public libraries.  
-- **Benchmarks** – Educational resources on AI benchmarks and evaluations.
-- **Swiss Public Inference Utility** - Working to grow Swiss options for AI.
+- **Public Inference** - the _Public AI Inference Utility_ is a pilot making public AI models more accessible and demonstrating real user demand for public AI. The _Swiss Public Inference Utility_ is a nation-level approach to this.
+- **Public Frontier Model** - _Airbus for AI_ is a multilateral effort toward a public-private frontier-scale model.  
+- **Public AI for Libraries** – Drop-in AI makerspaces across public libraries.  
+- **Public benchmarks** – Educational resources on AI benchmarks and evaluations; platforms like _Weval_ for collaboratiev benchmarking.
+- **Public coalition** - the _Public AI Network_ is a community of builders and advocates supporting one another in the movement towards more public AI.
+- **Public data** - _Data flywheels_ for gathering usage data to improve public AI, and an _AI Commons_ of well-provenanced public knowledge for training and grounding AI systems.
 
 ## Get Involved
 
